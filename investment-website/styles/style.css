@@ -1,0 +1,54 @@
+body {
+	padding: 0%;
+	margin: 0%;
+	background-image: url(https://image.slidesdocs.com/responsive-images/background/golden-bitcoin-in-cartoon-3d-style-a-rendered-cryptocurrency-image-powerpoint-background_90b369def8__960_540.jpg);
+}
+
+nav {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	margin: 10px;
+	align-items: center;
+	margin-left: 10%;
+}
+
+a {
+	text-decoration: none;
+}
+
+li:hover {
+	color: rgb(155, 155, 13);
+}
+
+li {
+	display: inline;
+	color: white;
+	padding-left: 30px;
+}
+
+button {
+	background-color: rgb(124, 124, 6);
+	border: none;
+	padding: 10px;
+}
+
+button:hover {
+	background-color: rgb(163, 163, 22);
+}
+
+button a {
+	color: white;
+}
+
+img {
+	height: 100px;
+	width: 100px;
+}
+section {
+text-align: center;
+color: #e9e3e3;
+}
+main {
+border-radius: 50%;
+width: 50%;
+}

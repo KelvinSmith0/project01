@@ -1,0 +1,39 @@
+body {
+    margin:0%;
+    padding:0%;
+    background-image: url(https://cdn.vectorstock.com/i/500p/60/01/flat-design-concept-blockchain-and-cryptocurrency-vector-27126001.jpg);
+    color: #fcfcfaf3; 
+} 
+
+table,th,td {
+border: 2px solid rgb(112, 112, 112);
+width: 50;
+height: 70;
+}
+p h4 {
+text-align: center;
+
+}
+nav {
+    display: grid;
+	grid-template-columns: auto auto auto auto;
+	margin: 10px;
+	align-items: center;
+	margin-left: 10%;
+}
+li {
+    color: white;
+}
+
+h1 {
+    margin-left: 30px;
+}
+h4 {
+    margin-left: 30px;
+}
+h2 {
+    text-align: center;
+}
+td th {
+    text-align: center;
+}
